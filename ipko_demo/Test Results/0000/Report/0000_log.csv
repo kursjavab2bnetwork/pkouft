@@ -1,0 +1,11 @@
+
+------------- URUCHOMIENIE TESTU | >>>> ipko_demo
+1|Logowanie|PASS|20.03.2019 21:01:45|20.03.2019 21:02:00|wczytanie strony glownej
+1|Logowanie|PASS|20.03.2019 21:01:45|20.03.2019 21:02:03|wczytanie strony glownej
+2|Przejdz_na_Doladowanie|PASS|20.03.2019 21:01:45|20.03.2019 21:02:09|Transakcje click
+2|Przejdz_na_Doladowanie|PASS|20.03.2019 21:01:45|20.03.2019 21:02:09|Przelewy click
+3|WykonajPrzelew|PASS|20.03.2019 21:01:45|20.03.2019 21:02:22|zlecenie przelewu wykonane pomyslnie
+4|Sprawdz_Doladowanie|PASS|20.03.2019 21:01:45|20.03.2019 21:02:26|Doladowanie wykonane pomyslnie 
+5|Wylogowanie|PASS|20.03.2019 21:01:45|20.03.2019 21:02:31|Wylogowanie Udane
+
+-------------- ZAKONCZENIE TESTU | >>>> ipko_demo
